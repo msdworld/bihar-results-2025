@@ -1,50 +1,48 @@
 {
-  "studentName": "Rani Kumari",
-  "fatherName": "Ajay Kumar Soni",
-  "rollNumber": "2500550",
-  "rollCode": "93041",
-  "registrationNumber": "93513-00071-24",
-  "school": "High School Jamunaha Bajar, Gopalganj",
-  "subjects": [
-    {
-      "name": "M.I.L Hindi",
-      "totalMarks": 100,
-      "theoryMarks": 79,
-      "obtainedMarks": 79
-    },
-    {
-      "name": "S.I.L Sanskrit",
-      "totalMarks": 100,
-      "theoryMarks": 78,
-      "obtainedMarks": 78
-    },
-    {
-      "name": "Mathematics",
-      "totalMarks": 100,
-      "theoryMarks": 53,
-      "obtainedMarks": 53
-    },
-    {
-      "name": "Science",
-      "totalMarks": 100,
-      "theoryMarks": 59,
-      "practicalMarks": 18,
-      "obtainedMarks": 77
-    },
-    {
-      "name": "Social Science",
-      "totalMarks": 100,
-      "theoryMarks": 46,
-      "practicalMarks": 17,
-      "obtainedMarks": 63
-    },
-    {
-      "name": "English",
-      "totalMarks": 100,
-      "theoryMarks": 36,
-      "obtainedMarks": 36
-    }
-  ]
+  "studentName": "Rani Kumari",
+  "fatherName": "Ajay Kumar Soni",
+  "rollNumber": "2500550",
+  "rollCode": "93041",
+  "registrationNumber": "93513-00071-24",
+  "school": "High School Jamunaha Bajar, Gopalganj",
+  "subjects": [
+    {
+      "name": "M.I.L Hindi",
+      "totalMarks": 100,
+      "theoryMarks": 79,
+      "obtainedMarks": 79
+    },
+    {
+      "name": "S.I.L Sanskrit",
+      "totalMarks": 100,
+      "theoryMarks": 78,
+      "obtainedMarks": 78
+    },
+    {
+      "name": "Mathematics",
+      "totalMarks": 100,
+      "theoryMarks": 53,
+      "obtainedMarks": 53
+    },
+    {
+      "name": "Science",
+      "totalMarks": 100,
+      "theoryMarks": 59,
+      "practicalMarks": 18,
+      "obtainedMarks": 77
+    },
+    {
+      "name": "Social Science",
+      "totalMarks": 100,
+      "theoryMarks": 46,
+      "practicalMarks": 17,
+      "obtainedMarks": 63
+    },
+    {
+      "name": "English",
+      "totalMarks": 100,
+      "theoryMarks": 36,
+      "obtainedMarks": 36
+    }
+  ]
 }
-
-    
