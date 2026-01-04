@@ -1,96 +1,34 @@
-{
-  "studentName": "Rani Kumari",
-  "fatherName": "Ajay Kumar Soni",
-  "rollNumber": "2500550",
-  "rollCode": "93041",
-  "registrationNumber": "93513-00071-24",
-  "school": "High School Jamunaha Bajar, Gopalganj",
-  "subjects": [
-    {
-      "name": "M.I.L Hindi",
-      "totalMarks": 100,
-      "theoryMarks": 79,
-      "obtainedMarks": 79
-    },
-    {
-      "name": "S.I.L Sanskrit",
-      "totalMarks": 100,
-      "theoryMarks": 78,
-      "obtainedMarks": 78
-    },
-    {
-      "name": "Mathematics",
-      "totalMarks": 100,
-      "theoryMarks": 53,
-      "obtainedMarks": 53
-    },
-    {
-      "name": "Science",
-      "totalMarks": 100,
-      "theoryMarks": 59,
-      "practicalMarks": 18,
-      "obtainedMarks": 77
-    },
-    {
-      "name": "Social Science",
-      "totalMarks": 100,
-      "theoryMarks": 46,
-      "practicalMarks": 17,
-      "obtainedMarks": 63
-    },
-    {
-      "name": "English",
-      "totalMarks": 100,
-      "theoryMarks": 36,
-      "obtainedMarks": 36
-    }
-  ]
-},
-{
-  "studentName": "BIPIN KUMAR ",
-  "fatherName": "PASHURAM RAM ",
-  "rollNumber": "93041",
-  "rollCode": "2500551",
-  "registrationNumber": "93041-00561-24",
-  "school": "HIGH SCHOOL JAMUNAHA BAJAR GOPALGANJ ",
-  "subjects": [
-    {
-      "name": "M.I.L HINDI",
-      "totalMarks": 100,
-      "theoryMarks": 53,
-      "obtainedMarks": 53
-    },
-    {
-      "name": "S.I.L SANSKRIT",
-      "totalMarks": 100,
-      "theoryMarks": 57,
-      "obtainedMarks": 57
-    },
-    {
-      "name": "MATHEMATICS",
-      "totalMarks": 100,
-      "theoryMarks": 30,
-      "obtainedMarks": 30
-    },
-    {
-      "name": "SCIENCE",
-      "totalMarks": 100,
-      "theoryMarks": 42,
-      "obtainedMarks": 59,
-      "practicalMarks": 17
-    },
-    {
-      "name": "SOCIAL SCIENCE",
-      "totalMarks": 100,
-      "theoryMarks": 32,
-      "obtainedMarks": 49,
-      "practicalMarks": 17
-    },
-    {
-      "name": "ENGLISH",
-      "totalMarks": 100,
-      "theoryMarks": 26,
-      "obtainedMarks": 26
-    }
-  ]
-}
+[
+  {
+    "studentName": "Rani Kumari",
+    "fatherName": "Ajay Kumar Soni",
+    "rollNumber": "2500550",
+    "rollCode": "93041",
+    "registrationNumber": "93513-00071-24",
+    "school": "High School Jamunaha Bajar, Gopalganj",
+    "subjects": [
+      { "name": "M.I.L Hindi", "totalMarks": 100, "theoryMarks": 79, "obtainedMarks": 79 },
+      { "name": "S.I.L Sanskrit", "totalMarks": 100, "theoryMarks": 78, "obtainedMarks": 78 },
+      { "name": "Mathematics", "totalMarks": 100, "theoryMarks": 53, "obtainedMarks": 53 },
+      { "name": "Science", "totalMarks": 100, "theoryMarks": 59, "practicalMarks": 18, "obtainedMarks": 77 },
+      { "name": "Social Science", "totalMarks": 100, "theoryMarks": 46, "practicalMarks": 17, "obtainedMarks": 63 },
+      { "name": "English", "totalMarks": 100, "theoryMarks": 36, "obtainedMarks": 36 }
+    ]
+  },
+  {
+    "studentName": "BIPIN KUMAR",
+    "fatherName": "PASHURAM RAM",
+    "rollNumber": "2500551",
+    "rollCode": "93041",
+    "registrationNumber": "93041-00561-24",
+    "school": "HIGH SCHOOL JAMUNAHA BAJAR GOPALGANJ",
+    "subjects": [
+      { "name": "M.I.L HINDI", "totalMarks": 100, "theoryMarks": 53, "obtainedMarks": 53 },
+      { "name": "S.I.L SANSKRIT", "totalMarks": 100, "theoryMarks": 57, "obtainedMarks": 57 },
+      { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 30, "obtainedMarks": 30 },
+      { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 42, "practicalMarks": 17, "obtainedMarks": 59 },
+      { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 32, "practicalMarks": 17, "obtainedMarks": 49 },
+      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 26, "obtainedMarks": 26 }
+    ]
+  }
+]
