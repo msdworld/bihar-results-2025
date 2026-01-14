@@ -78,5 +78,54 @@
       "obtainedMarks": 31
     }
   ]
+  },
+  {
+    "studentName": "SAKSHI KUMARI",
+    "fatherName": "RAM NARESH SHARMA",
+    "rollNumber": "2500103",
+    "rollCode": "63107",
+    "registrationNumber": "63107-00124-24",
+    "bsebuid": "1242301070341",
+    "school": "J P N HIGH SCHOOL NARHAN, SAMASTIPUR",
+    "subjects": [
+      {
+        "name": "M.I.L HINDI",
+        "totalMarks": 100,
+        "theoryMarks": 98,
+        "obtainedMarks": 98
+      },
+      {
+        "name": "S.I.L SANSKRIT",
+        "totalMarks": 100,
+        "theoryMarks": 99,
+        "obtainedMarks": 99
+      },
+      {
+        "name": "MATHEMATICS",
+        "totalMarks": 100,
+        "theoryMarks": 98,
+        "obtainedMarks": 98
+      },
+      {
+        "name": "SCIENCE",
+        "totalMarks": 100,
+        "theoryMarks": 75,
+        "obtainedMarks": 95,
+        "practicalMarks": 20
+      },
+      {
+        "name": "SOCIAL SCIENCE",
+        "totalMarks": 100,
+        "theoryMarks": 79,
+        "obtainedMarks": 99,
+        "practicalMarks": 20
+      },
+      {
+        "name": "ENGLISH",
+        "totalMarks": 100,
+        "theoryMarks": 79,
+        "obtainedMarks": 79
+      }
+    ]
   }
 ]
