@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<button id="btn">Check Result</button>
+<pre id="out"></pre>
+
+<script>
+document.getElementById("btn").onclick = async () => {
+  try {
+    const res = await fetch("https://huge-donkey-70.deno.dev", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        rollCode: "93041",
+        rollNo: "2500550"
+      })
+    });
+
+    const text = await res.text();
+    document.getElementById("out").innerText = text;
+  } catch (e) {
+    document.getElementById("out").innerText = e.message;
+  }
+};
+</script>
+
+</body>
+</html>
