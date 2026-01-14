@@ -176,5 +176,54 @@
         "obtainedMarks": 42
       }
     ]
+  },
+  {
+    "studentName": "AMJAD ALI",
+    "fatherName": "REYAJUDDIN SHAH",
+    "rollNumber": "2500002",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00292-23",
+    "BsebUniqueId": "1231350060175",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {
+        "name": "M.I.L URDU",
+        "totalMarks": 100,
+        "theoryMarks": 27,
+        "obtainedMarks": 27
+      },
+      {
+        "name": "S.I.L HINDI",
+        "totalMarks": 100,
+        "theoryMarks": 43,
+        "obtainedMarks": 43
+      },
+      {
+        "name": "MATHEMATICS",
+        "totalMarks": 100,
+        "theoryMarks": 16,
+        "obtainedMarks": 16
+      },
+      {
+        "name": "SCIENCE",
+        "totalMarks": 100,
+        "theoryMarks": 25,
+        "obtainedMarks": 45,
+        "practicalMarks": 20
+      },
+      {
+        "name": "SOCIAL SCIENCE",
+        "totalMarks": 100,
+        "theoryMarks": 21,
+        "obtainedMarks": 41,
+        "practicalMarks": 20
+      },
+      {
+        "name": "ENGLISH",
+        "totalMarks": 100,
+        "theoryMarks": 26,
+        "obtainedMarks": 26
+      }
+    ]
   }
 ]
