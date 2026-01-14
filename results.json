@@ -421,5 +421,22 @@
     "obtainedMarks": 31
    }
   ]
+  },
+  {
+    "studentName": "SHAHID AFRIDI",
+    "fatherName": "BHUTU KHAN",
+    "rollNumber": "2500007",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00493-24",
+    "BsebUniqueId": "1241350060281",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":40,"obtainedMarks":40},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":57,"obtainedMarks":57},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":46,"obtainedMarks":46},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":42,"obtainedMarks":61,"practicalMarks":19},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":42,"obtainedMarks":60,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":46,"obtainedMarks":46}
+    ]
   }
 ]
