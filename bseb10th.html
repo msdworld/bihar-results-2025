@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>BSEB Result Test</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h2>BSEB Result Test (GitHub Pages)</h2>
+
+<input id="rollCode" placeholder="Roll Code" value="93041"><br><br>
+<input id="rollNo" placeholder="Roll Number" value="2500550"><br><br>
+
+<button onclick="fetchResult()">Check Result</button>
+
+<pre id="output" style="white-space:pre-wrap;margin-top:20px;"></pre>
+
+<script>
+async function fetchResult() {
+  document.getElementById("output").innerText = "Fetching...";
+
+  try {
+    const res = await fetch("https://huge-donkey-70.deno.dev", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        rollCode: document.getElementById("rollCode").value,
+        rollNo: document.getElementById("rollNo").value
+      })
+    });
+
+    const text = await res.text();
+    document.getElementById("output").innerText = text;
+
+  } catch (err) {
+    document.getElementById("output").innerText = "ERROR: " + err.message;
+  }
+}
+</script>
+
+</body>
+</html>
