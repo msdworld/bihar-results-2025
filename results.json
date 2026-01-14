@@ -40,43 +40,12 @@
   "school": "HIGH SCHOOL JAMUNAHA BAJAR, GOPALGANJ",
   "subjects": [
     {
-      "name": "M.I.L HINDI",
-      "totalMarks": 100,
-      "theoryMarks": 40,
-      "obtainedMarks": 40
-    },
-    {
-      "name": "S.I.L SANSKRIT",
-      "totalMarks": 100,
-      "theoryMarks": 38,
-      "obtainedMarks": 38
-    },
-    {
-      "name": "MATHEMATICS",
-      "totalMarks": 100,
-      "theoryMarks": 30,
-      "obtainedMarks": 30
-    },
-    {
-      "name": "SCIENCE",
-      "totalMarks": 100,
-      "theoryMarks": 29,
-      "obtainedMarks": 48,
-      "practicalMarks": 19
-    },
-    {
-      "name": "SOCIAL SCIENCE",
-      "totalMarks": 100,
-      "theoryMarks": 32,
-      "obtainedMarks": 49,
-      "practicalMarks": 17
-    },
-    {
-      "name": "ENGLISH",
-      "totalMarks": 100,
-      "theoryMarks": 31,
-      "obtainedMarks": 31
-    }
+      "name": "M.I.L HINDI", "totalMarks": 100,"theoryMarks": 40,"obtainedMarks": 40 },
+    { "name": "S.I.L SANSKRIT", "totalMarks": 100, "theoryMarks": 38, "obtainedMarks": 38 },
+    { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 30 "obtainedMarks": 30 },
+    { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 29, "obtainedMarks": 48, "practicalMarks": 19 },
+    { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 32, "obtainedMarks": 49, "practicalMarks": 17 },
+    { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 31, "obtainedMarks": 31 }
   ]
   },
   {
