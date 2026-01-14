@@ -438,5 +438,56 @@
       {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":42,"obtainedMarks":60,"practicalMarks":18},
       {"name":"ENGLISH","totalMarks":100,"theoryMarks":46,"obtainedMarks":46}
     ]
+  },
+  {
+    "studentName": "MD ASIF",
+    "fatherName": "AFSAR ALI",
+    "rollNumber": "2500008",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060124",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":42,"obtainedMarks":42},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":78,"obtainedMarks":78},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":45,"obtainedMarks":45},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":49,"obtainedMarks":67,"practicalMarks":18},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":64,"obtainedMarks":82,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":65,"obtainedMarks":65}
+    ]
+  },
+  {
+    "studentName": "DIPU KUMAR ",
+    "fatherName": "MOHAN SAH ",
+    "rollNumber": "2500009",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060129",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":27,"obtainedMarks":27},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":21,"obtainedMarks":21},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":30,"obtainedMarks":30},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":23,"obtainedMarks":42,"practicalMarks":19},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":18,"obtainedMarks":36,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":49,"obtainedMarks":49}
+    ]
+  },
+  {
+    "studentName": "ALTAMAS RAZA",
+    "fatherName": "JAWED AKHTAR",
+    "rollNumber": "2500010",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060135",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":32,"obtainedMarks":32},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":42,"obtainedMarks":42},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":24,"obtainedMarks":24},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":33,"obtainedMarks":51,"practicalMarks":18},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":26,"obtainedMarks":44,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":52,"obtainedMarks":52}
+    ]
   }
 ]
