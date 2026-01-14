@@ -421,6 +421,5 @@
     "obtainedMarks": 31
    }
   ]
- },
-  {"studentName":"","fatherName":"","rollNumber":"","rollCode":"","registrationNumber":"","BsebUniqueId":"","school":"","subjects":[{"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":0,"obtainedMarks":0},{"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":0,"obtainedMarks":0},{"name":"MATHEMATICS","totalMarks":100,"theoryMarks":0,"obtainedMarks":0},{"name":"SCIENCE","totalMarks":100,"theoryMarks":0,"obtainedMarks":0,"practicalMarks":0},{"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":0,"obtainedMarks":0,"practicalMarks":0},{"name":"ENGLISH","totalMarks":100,"theoryMarks":0,"obtainedMarks":0}]}
+  }
 ]
