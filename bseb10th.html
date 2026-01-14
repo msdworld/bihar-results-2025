@@ -17,28 +17,19 @@
 <pre id="output" style="white-space:pre-wrap;margin-top:20px;"></pre>
 
 <script>
-async function fetchResult() {
-  document.getElementById("output").innerText = "Fetching...";
+fetch("https://YOUR-DENO-URL.deno.dev", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({
+    rollCode: "93041",
+    rollNo: "2500550"
+  })
+})
+.then(r => r.text())
+.then(html => {
+  document.body.innerHTML = html;
+});
 
-  try {
-    const res = await fetch("https://huge-donkey-70.deno.dev", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        rollCode: document.getElementById("rollCode").value,
-        rollNo: document.getElementById("rollNo").value
-      })
-    });
-
-    const text = await res.text();
-    document.getElementById("output").innerText = text;
-
-  } catch (err) {
-    document.getElementById("output").innerText = "ERROR: " + err.message;
-  }
-}
 </script>
 
 </body>
