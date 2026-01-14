@@ -127,5 +127,54 @@
         "obtainedMarks": 79
       }
     ]
+  },
+  {
+    "studentName": "FAISAL HABIB",
+    "fatherName": "MD HABIBULLAH",
+    "rollNumber": "2500001",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00245-23",
+    "BsebUniqueId": "1231350060167",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN",
+    "subjects": [
+      {
+        "name": "M.I.L URDU",
+        "totalMarks": 100,
+        "theoryMarks": 29,
+        "obtainedMarks": 29
+      },
+      {
+        "name": "S.I.L HINDI",
+        "totalMarks": 100,
+        "theoryMarks": 39,
+        "obtainedMarks": 39
+      },
+      {
+        "name": "MATHEMATICS",
+        "totalMarks": 100,
+        "theoryMarks": 16,
+        "obtainedMarks": 16
+      },
+      {
+        "name": "SCIENCE",
+        "totalMarks": 100,
+        "theoryMarks": 24,
+        "obtainedMarks": 44,
+        "practicalMarks": 20
+      },
+      {
+        "name": "SOCIAL SCIENCE",
+        "totalMarks": 100,
+        "theoryMarks": 20,
+        "obtainedMarks": 40,
+        "practicalMarks": 20
+      },
+      {
+        "name": "ENGLISH",
+        "totalMarks": 100,
+        "theoryMarks": 42,
+        "obtainedMarks": 42
+      }
+    ]
   }
 ]
