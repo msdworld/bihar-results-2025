@@ -426,5 +426,90 @@
       {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":26,"obtainedMarks":44,"practicalMarks":18},
       {"name":"ENGLISH","totalMarks":100,"theoryMarks":52,"obtainedMarks":52}
     ]
+  },
+  {
+    "studentName": "TAUSIF RAZA",
+    "fatherName": "JAWED AKHTAR",
+    "rollNumber": "2500011",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060136",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":21,"obtainedMarks":21},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":23,"obtainedMarks":23},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":17,"obtainedMarks":17},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":12,"obtainedMarks":31,"practicalMarks":19},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":13,"obtainedMarks":31,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":27,"obtainedMarks":27}
+    ]
+  },
+  {
+    "studentName": "FAHIM ALAM",
+    "fatherName": "PARVEJ ALAM",
+    "rollNumber": "2500012",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060147",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":31,"obtainedMarks":31},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":26,"obtainedMarks":26},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":12,"obtainedMarks":12},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":13,"obtainedMarks":33,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":13,"obtainedMarks":33,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":38,"obtainedMarks":38}
+    ]
+  },
+  {
+    "studentName": "TAZIM ANWAR",
+    "fatherName": "ANWAR ALI",
+    "rollNumber": "2500013",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060152",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":28,"obtainedMarks":28},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":46,"obtainedMarks":46},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":30,"obtainedMarks":30},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":18,"obtainedMarks":38,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":25,"obtainedMarks":45,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":43,"obtainedMarks":43}
+    ]
+  },
+  {
+    "studentName": "FAISAL IMAM",
+    "fatherName": "KAUSHAR ALI",
+    "rollNumber": "2500014",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060153",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":51,"obtainedMarks":51},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":55,"obtainedMarks":55},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":39,"obtainedMarks":39},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":26,"obtainedMarks":46,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":43,"obtainedMarks":63,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":41,"obtainedMarks":41}
+    ]
+  },
+  {
+    "studentName": "HAMASH KHALID",
+    "fatherName": "MOHAMMAD KHALID",
+    "rollNumber": "2500015",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060157",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":37,"obtainedMarks":37},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":52,"obtainedMarks":52},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":41,"obtainedMarks":41},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":27,"obtainedMarks":47,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":36,"obtainedMarks":56,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":41,"obtainedMarks":41}
+    ]
   }
 ]
