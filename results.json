@@ -188,7 +188,7 @@
     "fatherName": "AFSAR ALI",
     "rollNumber": "2500008",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00124-24",
     "BsebUniqueId": "1241350060124",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -205,7 +205,7 @@
     "fatherName": "MOHAN SAH ",
     "rollNumber": "2500009",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00129-24",
     "BsebUniqueId": "1241350060129",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -222,7 +222,7 @@
     "fatherName": "JAWED AKHTAR",
     "rollNumber": "2500010",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00135-24",
     "BsebUniqueId": "1241350060135",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -239,7 +239,7 @@
     "fatherName": "JAWED AKHTAR",
     "rollNumber": "2500011",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00136-24",
     "BsebUniqueId": "1241350060136",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -256,7 +256,7 @@
     "fatherName": "PARVEJ ALAM",
     "rollNumber": "2500012",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00147-24",
     "BsebUniqueId": "1241350060147",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -273,7 +273,7 @@
     "fatherName": "ANWAR ALI",
     "rollNumber": "2500013",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00152-24",
     "BsebUniqueId": "1241350060152",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -290,7 +290,7 @@
     "fatherName": "KAUSHAR ALI",
     "rollNumber": "2500014",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00153-24",
     "BsebUniqueId": "1241350060153",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -307,7 +307,7 @@
     "fatherName": "MOHAMMAD KHALID",
     "rollNumber": "2500015",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00157-24",
     "BsebUniqueId": "1241350060157",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
@@ -319,7 +319,151 @@
       {"name":"ENGLISH","totalMarks":100,"theoryMarks":41,"obtainedMarks":41}
     ]
   },
-      "subjects": [
+      {
+    "studentName": "UJJAWAL KUMAR",
+    "fatherName": "SHRI BHAGWAN YADAV",
+    "rollNumber": "2500016",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00159-24",
+    "BsebUniqueId": "1241350060159",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":75,"obtainedMarks":75},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":78,"obtainedMarks":78},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":60,"obtainedMarks":60},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":60,"obtainedMarks":80,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":60,"obtainedMarks":80,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":57,"obtainedMarks":57}
+    ]
+  },
+  {
+    "studentName": "PINTU KUMAR ",
+    "fatherName": "GAUTAM YADAV",
+    "rollNumber": "2500017",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00160-24",
+    "BsebUniqueId": "1241350060160",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":78,"obtainedMarks":78},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":75,"obtainedMarks":75},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":90,"obtainedMarks":90},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":66,"obtainedMarks":86,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":61,"obtainedMarks":81,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":65,"obtainedMarks":65}
+    ]
+  },
+  {
+    "studentName": "MANISH KUMAR ",
+    "fatherName": "SURESH YADAV ",
+    "rollNumber": "2500018",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00164-24",
+    "BsebUniqueId": "1241350060164",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":54,"obtainedMarks":54},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":66,"obtainedMarks":66},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":33,"obtainedMarks":33},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":56,"obtainedMarks":76,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":45,"obtainedMarks":65,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":52,"obtainedMarks":52}
+    ]
+  },
+  {
+    "studentName": "IMTEYAZ ALAM",
+    "fatherName": "JALALUDDIN ",
+    "rollNumber": "2500019",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00165-24",
+    "BsebUniqueId": "1241350060165",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":40,"obtainedMarks":40},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":63,"obtainedMarks":63},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":48,"obtainedMarks":48},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":36,"obtainedMarks":56,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":36,"obtainedMarks":56,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":63,"obtainedMarks":63}
+    ]
+  },
+  {
+    "studentName": "SATISH KUMAR ",
+    "fatherName": "SHYAM BABU SAH",
+    "rollNumber": "2500020",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00166-24",
+    "BsebUniqueId": "1241350060166",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":46,"obtainedMarks":46},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":56,"obtainedMarks":56},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":41,"obtainedMarks":41},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":50,"obtainedMarks":70,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":46,"obtainedMarks":65,"practicalMarks":19},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":62,"obtainedMarks":62}
+    ]
+  },
+  {
+    "studentName": "HIMANSHU KUMAR ",
+    "fatherName": "VIMLESH PRASAD KUSHWAHA ",
+    "rollNumber": "2500021",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00168-24",
+    "BsebUniqueId": "1241350060168",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":35,"obtainedMarks":35},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":48,"obtainedMarks":48},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":30,"obtainedMarks":30},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":19,"obtainedMarks":38,"practicalMarks":19},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":25,"obtainedMarks":43,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":31,"obtainedMarks":31}
+    ]
+  },
+  {
+    "studentName": "MD ARMAN SHAH",
+    "fatherName": "MOHAMMAD AKHTAR SHAH",
+    "rollNumber": "2500022",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00187-24",
+    "BsebUniqueId": "1241350060187",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":30,"obtainedMarks":30},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":44,"obtainedMarks":44},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":30,"obtainedMarks":30},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":23,"obtainedMarks":41,"practicalMarks":18},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":20,"obtainedMarks":38,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":31,"obtainedMarks":31}
+    ]
+  },
+  {
+    "studentName": "MOHAMMAD BELAL ZIA",
+    "fatherName": "MOHAMMAD ZEAUDDIN ",
+    "rollNumber": "2500023",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00188-24",
+    "BsebUniqueId": "1241350060188",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":81,"obtainedMarks":81},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":84,"obtainedMarks":84},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":86,"obtainedMarks":86},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":61,"obtainedMarks":81,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":65,"obtainedMarks":85,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":64,"obtainedMarks":64}
+    ]
+  },
+  {
+    "studentName": "ANKUR ARYA",
+    "fatherName": "MOTILAL RAM",
+    "rollNumber": "2500024",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00290-24",
+    "BsebUniqueId": "1241350060217",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
       {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":76,"obtainedMarks":76},
       {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":64,"obtainedMarks":64},
       {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":73,"obtainedMarks":73},
@@ -333,7 +477,7 @@
     "fatherName": "JAKARIYA KHAN",
     "rollNumber": "2500025",
     "rollCode": "92006",
-    "registrationNumber": "",
+    "registrationNumber": "92006-00427-24",
     "BsebUniqueId": "1241350060239",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
