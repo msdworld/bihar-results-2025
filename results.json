@@ -61,8 +61,7 @@
       { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 98, "obtainedMarks": 98 },
       { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 75, "obtainedMarks": 95, "practicalMarks": 20 },
       { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 79, "obtainedMarks": 99, "practicalMarks": 20 },
-      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 79, "obtainedMarks": 79
-      }
+      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 79, "obtainedMarks": 79 }
     ]
   },
   {
@@ -74,44 +73,12 @@
     "BsebUniqueId": "1231350060167",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN",
     "subjects": [
-      {
-        "name": "M.I.L URDU",
-        "totalMarks": 100,
-        "theoryMarks": 29,
-        "obtainedMarks": 29
-      },
-      {
-        "name": "S.I.L HINDI",
-        "totalMarks": 100,
-        "theoryMarks": 39,
-        "obtainedMarks": 39
-      },
-      {
-        "name": "MATHEMATICS",
-        "totalMarks": 100,
-        "theoryMarks": 16,
-        "obtainedMarks": 16
-      },
-      {
-        "name": "SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 24,
-        "obtainedMarks": 44,
-        "practicalMarks": 20
-      },
-      {
-        "name": "SOCIAL SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 20,
-        "obtainedMarks": 40,
-        "practicalMarks": 20
-      },
-      {
-        "name": "ENGLISH",
-        "totalMarks": 100,
-        "theoryMarks": 42,
-        "obtainedMarks": 42
-      }
+      { "name": "M.I.L URDU", "totalMarks": 100, "theoryMarks": 29, "obtainedMarks": 29 },
+      { "name": "S.I.L HINDI", "totalMarks": 100, "theoryMarks": 39, "obtainedMarks": 39 },
+      { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 16, "obtainedMarks": 16 },
+      { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 24, "obtainedMarks": 44, "practicalMarks": 20 },
+      { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 20, "obtainedMarks": 40, "practicalMarks": 20 },
+      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 42, "obtainedMarks": 42 }
     ]
   },
   {
@@ -123,44 +90,12 @@
     "BsebUniqueId": "1231350060175",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
-      {
-        "name": "M.I.L URDU",
-        "totalMarks": 100,
-        "theoryMarks": 27,
-        "obtainedMarks": 27
-      },
-      {
-        "name": "S.I.L HINDI",
-        "totalMarks": 100,
-        "theoryMarks": 43,
-        "obtainedMarks": 43
-      },
-      {
-        "name": "MATHEMATICS",
-        "totalMarks": 100,
-        "theoryMarks": 16,
-        "obtainedMarks": 16
-      },
-      {
-        "name": "SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 25,
-        "obtainedMarks": 45,
-        "practicalMarks": 20
-      },
-      {
-        "name": "SOCIAL SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 21,
-        "obtainedMarks": 41,
-        "practicalMarks": 20
-      },
-      {
-        "name": "ENGLISH",
-        "totalMarks": 100,
-        "theoryMarks": 26,
-        "obtainedMarks": 26
-      }
+      { "name": "M.I.L URDU", "totalMarks": 100, "theoryMarks": 27, "obtainedMarks": 27 },
+      { "name": "S.I.L HINDI", "totalMarks": 100, "theoryMarks": 43, "obtainedMarks": 43 },
+      { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 16, "obtainedMarks": 16 },
+      { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 25, "obtainedMarks": 45, "practicalMarks": 20 },
+      { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 21, "obtainedMarks": 41, "practicalMarks": 20 },
+      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 26, "obtainedMarks": 26 }
     ]
   },
   {
@@ -172,44 +107,12 @@
     "BsebUniqueId": "1232350060244",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
-      {
-        "name": "M.I.L URDU",
-        "totalMarks": 100,
-        "theoryMarks": 41,
-        "obtainedMarks": 41
-      },
-      {
-        "name": "S.I.L HINDI",
-        "totalMarks": 100,
-        "theoryMarks": 56,
-        "obtainedMarks": 56
-      },
-      {
-        "name": "MATHEMATICS",
-        "totalMarks": 100,
-        "theoryMarks": 30,
-        "obtainedMarks": 30
-      },
-      {
-        "name": "SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 37,
-        "obtainedMarks": 57,
-        "practicalMarks": 20
-      },
-      {
-        "name": "SOCIAL SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 30,
-        "obtainedMarks": 50,
-        "practicalMarks": 20
-      },
-      {
-        "name": "ENGLISH",
-        "totalMarks": 100,
-        "theoryMarks": 32,
-        "obtainedMarks": 32
-      }
+      { "name": "M.I.L URDU", "totalMarks": 100, "theoryMarks": 41, "obtainedMarks": 41 },
+      { "name": "S.I.L HINDI", "totalMarks": 100, "theoryMarks": 56, "obtainedMarks": 56 },
+      { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 30, "obtainedMarks": 30 },
+      { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 37, "obtainedMarks": 57, "practicalMarks": 20 },
+      { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 30, "obtainedMarks": 50, "practicalMarks": 20 },
+      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 32, "obtainedMarks": 32 }
     ]
   },
   {
@@ -221,44 +124,12 @@
     "BsebUniqueId": "1241350060007",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
-      {
-        "name": "M.I.L URDU",
-        "totalMarks": 100,
-        "theoryMarks": 56,
-        "obtainedMarks": 56
-      },
-      {
-        "name": "S.I.L HINDI",
-        "totalMarks": 100,
-        "theoryMarks": 61,
-        "obtainedMarks": 61
-      },
-      {
-        "name": "MATHEMATICS",
-        "totalMarks": 100,
-        "theoryMarks": 42,
-        "obtainedMarks": 42
-      },
-      {
-        "name": "SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 33,
-        "obtainedMarks": 53,
-        "practicalMarks": 20
-      },
-      {
-        "name": "SOCIAL SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 39,
-        "obtainedMarks": 59,
-        "practicalMarks": 20
-      },
-      {
-        "name": "ENGLISH",
-        "totalMarks": 100,
-        "theoryMarks": 41,
-        "obtainedMarks": 41
-      }
+      { "name": "M.I.L URDU", "totalMarks": 100, "theoryMarks": 56, "obtainedMarks": 56 },
+      { "name": "S.I.L HINDI", "totalMarks": 100, "theoryMarks": 61, "obtainedMarks": 61 },
+      { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 42, "obtainedMarks": 42 },
+      { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 33, "obtainedMarks": 53, "practicalMarks": 20 },
+      { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 39, "obtainedMarks": 59, "practicalMarks": 20 },
+      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 41, "obtainedMarks": 41 }
     ]
   },
   {
@@ -270,44 +141,12 @@
     "BsebUniqueId": "1241350060008",
     "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
     "subjects": [
-      {
-        "name": "M.I.L URDU",
-        "totalMarks": 100,
-        "theoryMarks": 34,
-        "obtainedMarks": 34
-      },
-      {
-        "name": "S.I.L HINDI",
-        "totalMarks": 100,
-        "theoryMarks": 31,
-        "obtainedMarks": 31
-      },
-      {
-        "name": "MATHEMATICS",
-        "totalMarks": 100,
-        "theoryMarks": 30,
-        "obtainedMarks": 30
-      },
-      {
-        "name": "SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 21,
-        "obtainedMarks": 41,
-        "practicalMarks": 20
-      },
-      {
-        "name": "SOCIAL SCIENCE",
-        "totalMarks": 100,
-        "theoryMarks": 41,
-        "obtainedMarks": 61,
-        "practicalMarks": 20
-      },
-      {
-        "name": "ENGLISH",
-        "totalMarks": 100,
-        "theoryMarks": 31,
-        "obtainedMarks": 31
-      }
+      { "name": "M.I.L URDU", "totalMarks": 100, "theoryMarks": 34, "obtainedMarks": 34 },
+      { "name": "S.I.L HINDI", "totalMarks": 100, "theoryMarks": 31, "obtainedMarks": 31 },
+      { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 30, "obtainedMarks": 30 },
+      { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 21, "obtainedMarks": 41, "practicalMarks": 20 },
+      { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 41, "obtainedMarks": 61, "practicalMarks": 20 },
+      { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 31, "obtainedMarks": 31 }
     ]
   },
   {
@@ -319,44 +158,12 @@
   "BsebUniqueId": "1241350060095",
   "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
   "subjects": [
-   {
-    "name": "M.I.L URDU",
-    "totalMarks": 100,
-    "theoryMarks": 35,
-    "obtainedMarks": 35
-   },
-   {
-    "name": "S.I.L HINDI",
-    "totalMarks": 100,
-    "theoryMarks": 66,
-    "obtainedMarks": 66
-   },
-   {
-    "name": "MATHEMATICS",
-    "totalMarks": 100,
-    "theoryMarks": 41,
-    "obtainedMarks": 41
-   },
-   {
-    "name": "SCIENCE",
-    "totalMarks": 100,
-    "theoryMarks": 33,
-    "obtainedMarks": 52,
-    "practicalMarks": 19
-   },
-   {
-    "name": "SOCIAL SCIENCE",
-    "totalMarks": 100,
-    "theoryMarks": 35,
-    "obtainedMarks": 53,
-    "practicalMarks": 18
-   },
-   {
-    "name": "ENGLISH",
-    "totalMarks": 100,
-    "theoryMarks": 31,
-    "obtainedMarks": 31
-   }
+   { "name": "M.I.L URDU", "totalMarks": 100, "theoryMarks": 35, "obtainedMarks": 35 },
+   { "name": "S.I.L HINDI", "totalMarks": 100, "theoryMarks": 66, "obtainedMarks": 66 },
+   { "name": "MATHEMATICS", "totalMarks": 100, "theoryMarks": 41, "obtainedMarks": 41 },
+   { "name": "SCIENCE", "totalMarks": 100, "theoryMarks": 33, "obtainedMarks": 52, "practicalMarks": 19 },
+   { "name": "SOCIAL SCIENCE", "totalMarks": 100, "theoryMarks": 35, "obtainedMarks": 53, "practicalMarks": 18 },
+   { "name": "ENGLISH", "totalMarks": 100, "theoryMarks": 31, "obtainedMarks": 31 }
   ]
   },
   {
