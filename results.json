@@ -318,5 +318,31 @@
       {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":36,"obtainedMarks":56,"practicalMarks":20},
       {"name":"ENGLISH","totalMarks":100,"theoryMarks":41,"obtainedMarks":41}
     ]
+  },
+      "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":76,"obtainedMarks":76},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":64,"obtainedMarks":64},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":73,"obtainedMarks":73},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":67,"obtainedMarks":87,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":52,"obtainedMarks":72,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":55,"obtainedMarks":55}
+    ]
+  },
+  {
+    "studentName": "JUNAID KHAN",
+    "fatherName": "JAKARIYA KHAN",
+    "rollNumber": "2500025",
+    "rollCode": "92006",
+    "registrationNumber": "",
+    "BsebUniqueId": "1241350060239",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":34,"obtainedMarks":34},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":47,"obtainedMarks":47},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":30,"obtainedMarks":30},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":40,"obtainedMarks":60,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":41,"obtainedMarks":61,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":55,"obtainedMarks":55}
+    ]
   }
 ]
