@@ -489,4 +489,89 @@
       {"name":"ENGLISH","totalMarks":100,"theoryMarks":55,"obtainedMarks":55}
     ]
   }
+  {
+    "studentName": "PRADEEP KUMAR ",
+    "fatherName": "KRISHNA YADAV",
+    "rollNumber": "2500026",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00461-24",
+    "BsebUniqueId": "1241350060257",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":62,"obtainedMarks":62},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":64,"obtainedMarks":64},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":31,"obtainedMarks":31},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":48,"obtainedMarks":68,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":49,"obtainedMarks":69,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":36,"obtainedMarks":36}
+    ]
+  },
+  {
+    "studentName": "SAMIR ALAM",
+    "fatherName": "IZRAIL ALI",
+    "rollNumber": "2500027",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00467-24",
+    "BsebUniqueId": "1241350060263",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":58,"obtainedMarks":58},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":70,"obtainedMarks":70},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":51,"obtainedMarks":51},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":58,"obtainedMarks":77,"practicalMarks":19},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":50,"obtainedMarks":68,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":57,"obtainedMarks":57}
+    ]
+  },
+  {
+    "studentName": "TANVEER RAZA",
+    "fatherName": "MOHAMMAD ASGHAR ALI ",
+    "rollNumber": "2500028",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00518-24",
+    "BsebUniqueId": "1241350060297",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L URDU","totalMarks":100,"theoryMarks":80,"obtainedMarks":80},
+      {"name":"S.I.L HINDI","totalMarks":100,"theoryMarks":86,"obtainedMarks":86},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":33,"obtainedMarks":33},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":45,"obtainedMarks":65,"practicalMarks":20},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":49,"obtainedMarks":69,"practicalMarks":20},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":76,"obtainedMarks":76}
+    ]
+  },
+  {
+    "studentName": "YASH KUMAR SAINI",
+    "fatherName": "PANKESHWAR BHAGAT",
+    "rollNumber": "2500029",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00554-24",
+    "BsebUniqueId": "1241350060328",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":37,"obtainedMarks":37},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":41,"obtainedMarks":41},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":30,"obtainedMarks":30},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":29,"obtainedMarks":48,"practicalMarks":19},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":35,"obtainedMarks":53,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":38,"obtainedMarks":38}
+    ]
+  },
+  {
+    "studentName": "SANDEEP KUMAR ",
+    "fatherName": "YOGENDRA MANJHI",
+    "rollNumber": "2500030",
+    "rollCode": "92006",
+    "registrationNumber": "92006-00129-24",
+    "BsebUniqueId": "1241350060935",
+    "school": "G M HIGH SCHOOL BARHARIA SIWAN ",
+    "subjects": [
+      {"name":"M.I.L HINDI","totalMarks":100,"theoryMarks":19,"obtainedMarks":19},
+      {"name":"S.I.L SANSKRIT","totalMarks":100,"theoryMarks":16,"obtainedMarks":16},
+      {"name":"MATHEMATICS","totalMarks":100,"theoryMarks":12,"obtainedMarks":12},
+      {"name":"SCIENCE","totalMarks":100,"theoryMarks":10,"obtainedMarks":29,"practicalMarks":19},
+      {"name":"SOCIAL SCIENCE","totalMarks":100,"theoryMarks":24,"obtainedMarks":42,"practicalMarks":18},
+      {"name":"ENGLISH","totalMarks":100,"theoryMarks":19,"obtainedMarks":19}
+    ]
+  }
 ]
